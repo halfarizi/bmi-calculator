@@ -1,0 +1,11 @@
+
+.brand {
+	overflow: hidden;
+	margin: 40px auto;
+	position: relative;
+}
+
+.footer {
+  margin: 40px 0;
+  text-align: center;
+}
